@@ -118,5 +118,5 @@ Werkzeug==1.0.1
 widgetsnbextension==3.5.1
 wincertstore==0.2
 wrapt==1.12.1
-xgboost @ file:///C:/Users/k_ym/xgboost-1.4.0_SNAPSHOT%2B9f15b9e322ac505189394ff840bda3f52a7abb1f-py3-none-win_amd64.whl
+xgboost @ file:///C:/Users/k_ym/xgboost-1.4.0_SNAPSHOT+a9b4a9522579d89e9bed2d7b011dd92a9a20b721-py3-none-manylinux2010_x86_64.whl
 zipp @ file:///tmp/build/80754af9/zipp_1604001098328/work
